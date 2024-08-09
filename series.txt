@@ -1,0 +1,59 @@
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Millie Bobby Brown, Finn Wolfhard, Winona Ryder', 8.7, 'DRAMA', 'https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg', 'Quando um jovem garoto desaparece, uma pequena cidade descobre um mistério envolvendo experimentos secretos, forças sobrenaturais aterrorizantes e uma estranha menina.', 'Stranger Things', 5);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Louis Hofmann, Karoline Eichhorn, Lisa Vicari', 8.7, 'CRIME', 'https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_SX300.jpg', 'Uma saga familiar com um toque sobrenatural, ambientada em uma cidade alemã onde o desaparecimento de duas crianças expõe as relações entre quatro famílias.', 'Dark', 3);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Jared Padalecki, Jensen Ackles, Jim Beaver', 8.4, 'DRAMA', 'https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_SX300.jpg', 'Dois irmãos seguem os passos do pai como caçadores, lutando contra seres sobrenaturais malignos de vários tipos, incluindo monstros, demônios e deuses que vagam pela terra.', 'Supernatural', 15);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Karl Urban, Jack Quaid, Antony Starr', 8.7, 'ACAO', 'https://m.media-amazon.com/images/M/MV5BYTY2ZjYyNGUtZGVkZS00MDNhLWIwMjMtZDk4MmQ5ZWI0NTY4XkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_SX300.jpg', 'Um grupo de vigilantes decide derrubar super-heróis corruptos que abusam de seus superpoderes.', 'The Boys', 5);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Jennifer Aniston, Courteney Cox, Lisa Kudrow', 8.9, 'COMEDIA', 'https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg', 'Segue as vidas pessoais e profissionais de seis amigos na faixa dos vinte a trinta anos que vivem no bairro de Manhattan, em Nova York.', 'Friends', 10);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Steve Carell, Jenna Fischer, John Krasinski', 9.0, 'COMEDIA', 'https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg', 'Uma série de documentários fictícios sobre um grupo de trabalhadores de escritório típicos, onde o dia de trabalho consiste em conflitos de ego, comportamento inadequado, tédio e romance.', 'The Office', 9);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Josh Radnor, Jason Segel, Cobie Smulders', 8.3, 'COMEDIA', 'https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg', 'Um pai conta a seus filhos - através de uma série de flashbacks - a jornada que ele e seus quatro melhores amigos fizeram até ele conhecer a mãe deles.', 'How I Met Your Mother', 9);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Úrsula Corberó, Álvaro Morte, Itziar Ituño', 8.2, 'ACAO', 'https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_SX300.jpg', 'Um grupo incomum de ladrões tenta realizar o roubo mais perfeito da história da Espanha - roubando 2,4 bilhões de euros da Casa da Moeda Real da Espanha.', 'Money Heist', 5);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Ralph Macchio, William Zabka, Courtney Henggeler', 8.5, 'ACAO', 'https://m.media-amazon.com/images/M/MV5BYjA3NDkwNzktNjJkYi00ODNhLWFhYzQtYzk5NjU4MDM0OWZmXkEyXkFqcGc@._V1_SX300.jpg', 'Décadas após a luta no Torneio de Karatê do Vale em 1984, Daniel LaRusso e Johnny Lawrence se encontram novamente como rivais das artes marciais.', 'Cobra Kai', 6);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Eliza Taylor, Bob Morley, Marie Avgeropoulos', 7.6, 'DRAMA', 'https://m.media-amazon.com/images/M/MV5BNjRiYTIzZmUtMTFkNS00ZTM0LWE4ODAtMDliMGE4NzM5ZjVlXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_SX300.jpg', 'Ambientada 97 anos após uma guerra nuclear destruir a civilização, quando uma nave espacial abrigando os únicos sobreviventes da humanidade envia 100 delinquentes juvenis de volta à Terra, na esperança de repovoar o planeta.', 'The 100', 7);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Johnny Galecki, Jim Parsons, Kaley Cuoco', 8.1, 'COMEDIA', 'https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg', 'Aspirante a atriz de cinema Penny se muda para um apartamento em Pasadena, ao lado de dois brilhantes, mas socialmente desajeitados, físicos Sheldon Cooper e Leonard Hofstadter, e mostra a eles o quanto eles sabem pouco sobre a vida fora do laboratório.', 'The Big Bang Theory', 12);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Lauren Graham, Alexis Bledel, Keiko Agena', 8.2, 'COMEDIA', 'https://m.media-amazon.com/images/M/MV5BMTQ3NDA1ZWYtYjBmMC00NmJjLWI1NjgtYjg2NDhmMTY2YWQ4XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_SX300.jpg', 'Uma comédia dramática centrada na relação entre uma mãe solteira na casa dos trinta anos e sua filha adolescente que vivem em Stars Hollow, Connecticut.', 'Gilmore Girls', 7);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Mayumi Tanaka, Akemi Okamura, Laurent Vernin', 9.0, 'ACAO', 'https://m.media-amazon.com/images/M/MV5BM2YwYTkwNjItNGQzNy00MWE1LWE1M2ItOTMzOGI1OWQyYjA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg', 'Monkey D. Luffy parte em uma aventura com sua tripulação de piratas na esperança de encontrar o maior tesouro de todos os tempos, conhecido como "One Piece".', 'One Piece', 1);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Emilia Clarke, Peter Dinklage, Kit Harington', 9.2, 'ACAO', 'https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg', 'Nove famílias nobres lutam pelo controle das terras de Westeros, enquanto um antigo inimigo retorna após ficar adormecido por milênios.', 'Game of Thrones', 8);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Bryan Cranston, Aaron Paul, Anna Gunn', 9.5, 'CRIME', 'https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg', 'Um professor de química diagnosticado com câncer de pulmão inoperável recorre à fabricação e venda de metanfetamina com um ex-aluno para garantir o futuro de sua família.', 'Breaking Bad', 5);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Iain Armitage, Zoe Perry, Lance Barber', 7.7, 'COMEDIA', 'https://m.media-amazon.com/images/M/MV5BZTlmYjk0ZTItODNhMC00YmIyLWExZWEtYjk0YWQzMGNhOTZmXkEyXkFqcGdeQXVyMTY0Njc2MTUx._V1_SX300.jpg', 'Conheça um gênio mirim chamado Sheldon Cooper (já visto como adulto em The Big Bang Theory) e sua família. Alguns desafios únicos enfrentam Sheldon, que é socialmente desajeitado.', 'Young Sheldon', 7);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Zendaya, Hunter Schafer, Jacob Elordi', 8.3, 'DRAMA', 'https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg', 'Uma visão sobre a vida de um grupo de estudantes do ensino médio enquanto eles lidam com questões de drogas, sexo e violência.', 'Euphoria', 3);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Blake Lively, Leighton Meester, Penn Badgley', 7.5, 'DRAMA', 'https://m.media-amazon.com/images/M/MV5BNmQ4Zjg1YWYtMTA1Mi00ZGY1LTlmN2ItYTc5ODkzNTFmYWVhXkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_SX300.jpg', 'Adolescentes privilegiados que vivem no Upper East Side de Nova York não podem esconder nenhum segredo do blogueiro implacável que está sempre observando.', 'Gossip Girl', 6);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Junko Takeuchi, Maile Flanagan, Kate Higgins', 8.4, 'ACAO', 'https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg', 'Naruto Uzumaki, um adolescente ninja travesso, luta enquanto busca por reconhecimento e sonha em se tornar o Hokage, o líder da vila e o ninja mais forte.', 'Naruto', 1);
+
+INSERT INTO series (atores, avaliacao, genero, poster, sinopse, titulo, total_temporadas) VALUES
+('Tara Strong, Paul Eiding, Meagan Moore', 7.5, 'ACAO', 'https://m.media-amazon.com/images/M/MV5BZjg2ZjViMTktNWQ1Yy00ODZiLWE1OTgtNDY3MjI0OGUyNjNhXkEyXkFqcGdeQXVyNTk4NDI4NTE@._V1_SX300.jpg', 'A história de Ben Tennyson, um garoto típico que se torna muito atípico após descobrir o Omnitrix, um misterioso dispositivo alienígena com o poder de transformar o usuário em dez diferentes espécies alienígenas.', 'Ben 10', 4);
